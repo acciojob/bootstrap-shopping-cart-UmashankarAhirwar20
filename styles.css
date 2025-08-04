@@ -1,13 +1,13 @@
  body {
       background-color: #f8f9fa;
     }
-    /* Ensure landing the text to be centered */
+
 .block-heading {
       margin-top: 40px;
       margin-bottom: 20px;
       text-align: center; /* add this to pass tests expecting center alignment */
 }
-    /* Confirmation the p inside block-heading is centered too */
+
 .block-heading p {
       text-align: center;
 }
